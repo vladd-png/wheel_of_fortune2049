@@ -1,7 +1,9 @@
 # Game Time Project: WHEEL OF FORTUNE 2049
 ![wod_logo_1 (1)](https://user-images.githubusercontent.com/46171611/71985869-a5ad6780-31e8-11ea-8f25-9638b9f1f865.png)
 
-Collaborators: [Kyle Cornelissen](https://github.com/kylecornelissen), [Noah Gambee](https://github.com/nwgambee), & [Virginia Ladd](https://github.com/vladd-png)
+## Introduction
+
+Do you love Wheel of Fortune? 
 
 ## Setup
 
@@ -22,3 +24,6 @@ The object of Wheel Of Fortune 2049 is to earn money by spinning the Wheel and s
 
 ## Screenshots
 <img width="1440" alt="Screen Shot 2020-01-08 at 7 06 07 AM" src="https://user-images.githubusercontent.com/46171611/71992346-7ac81100-31f2-11ea-9060-97f64f4c110d.png">
+
+
+Collaborators: [Kyle Cornelissen](https://github.com/kylecornelissen), [Noah Gambee](https://github.com/nwgambee), & [Virginia Ladd](https://github.com/vladd-png)
